@@ -1,0 +1,9 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "Blackjack CLI game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
